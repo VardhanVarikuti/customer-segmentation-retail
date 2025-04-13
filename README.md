@@ -1,4 +1,3 @@
-
 # 🛍️ Customer Segmentation Using RFM Analysis and K-Means Clustering
 
 This project focuses on understanding and segmenting customers based on their purchasing behavior using the **Online Retail dataset** from the UCI Machine Learning Repository. By leveraging **RFM (Recency, Frequency, Monetary) analysis** and **K-Means clustering**, the goal is to categorize customers into meaningful segments for targeted marketing and business strategies.
@@ -98,7 +97,7 @@ The dataset contains over 500,000 transactions from a UK-based online retailer b
 
 ## 📚 References
 
-- UCI Machine Learning Repository  
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)  
 - [scikit-learn Clustering](https://scikit-learn.org/stable/modules/clustering.html#k-means)  
 - [Seaborn Documentation](https://seaborn.pydata.org/)  
