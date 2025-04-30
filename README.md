@@ -29,7 +29,7 @@ Understanding customer behavior is critical for any business. In this project, I
 ## 📂 Dataset
 
 **Source:** [UCI Machine Learning Repository - Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail)  
-The dataset contains over 500,000 transactions from a UK-based online retailer between 2010 and 2011.
+The dataset contains over 541,000 transactions from a UK-based online retailer between 2010 and 2011.
 
 ---
 
